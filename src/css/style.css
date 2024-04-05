@@ -64,6 +64,7 @@ li {
 }
 .header .allHeader .searchInput .form .categories .dropdown {
   position: absolute;
+  background: #fff;
   top: 100%;
   left: 0;
   width: 200px;
@@ -105,7 +106,7 @@ li {
 .header .allHeader .icons .content .line {
   position: absolute;
   top: -13px;
-  right: 50px;
+  right: 30px;
   color: #fff;
   background: #D12C2C;
   border-radius: 100%;
@@ -115,7 +116,7 @@ li {
 .header .allHeader .icons .content .shuffle {
   position: absolute;
   bottom: 18px;
-  right: 90px;
+  right: 100px;
   color: #fff;
   background: #D12C2C;
   border-radius: 100%;
